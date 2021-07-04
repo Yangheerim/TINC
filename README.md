@@ -46,7 +46,7 @@ Repeat the game until the score(**20**) is reached.<br><br>
 ![](https://github.com/choijinkyung/TINC/blob/master/img/winnerloser1.png)
 <br><br>
 
-### Item information
+### Game Item
 ![](https://github.com/choijinkyung/TINC/blob/master/img/iteminfo.png)
 
 ```
@@ -57,7 +57,7 @@ Repeat the game until the score(**20**) is reached.<br><br>
 ```
 <br>
 
-###  Information of each button (Can check the information by tooltip in button)
+### Meaning of buttons
 ![](https://github.com/choijinkyung/TINC/blob/master/img/help1.png)
 ![](https://github.com/choijinkyung/TINC/blob/master/img/help2.png)
 <br><br>
